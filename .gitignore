@@ -7,6 +7,7 @@ target/
 mvnw
 mvnw.cmd
 .gitattributes
+.gitignore
 
 ### STS ###
 .apt_generated
@@ -35,3 +36,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/.mvn/
